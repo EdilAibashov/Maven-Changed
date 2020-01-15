@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="LIPS">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/LIPS" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/LIPS" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/LIPS" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/LIPS" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1fe119-44f5-4dea-965d-dc938ab6908f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W5IqxNL4jlKmCzPGrTGAXkqmul" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SlackPr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlackPr" />
+      <module name="Slack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SlackPr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1fe119-44f5-4dea-965d-dc938ab6908f" name="Default Changelist" comment="" />
+      <created>1578433223193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578433223193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom" timestamp="1578443961657">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1578437839856" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1578438079921" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1578443961657" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1578437426524" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1578437475991" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1578437680985" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1578437735765" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1578437132833" />
+    <state width="1283" height="211" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578437278232" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center" timestamp="1578443961656">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1578437839855" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1578438079920" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1578443961656" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1578437426523" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1578437475991" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1578437680985" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1578437735764" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1578437132832" />
+    <state width="1283" height="211" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1578437278231" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left" timestamp="1578443961655">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1578437839854" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1578438079920" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1578443961655" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1578437426523" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1578437475990" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1578437680984" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1578437735764" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1578437132832" />
+    <state width="1283" height="211" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1578437278231" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right" timestamp="1578443961657">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1578437839855" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1578438079921" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1578443961657" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1578437426523" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1578437475991" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1578437680985" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1578437735764" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1578437132832" />
+    <state width="1283" height="211" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1578437278232" />
+    <state x="238" y="94" key="Maven.ArtifactSearchDialog" timestamp="1578434016901">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="238" y="94" key="Maven.ArtifactSearchDialog/0.23.1440.828@0.23.1440.828" timestamp="1578434016901" />
+  </component>
+</project>
