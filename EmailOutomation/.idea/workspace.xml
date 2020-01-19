@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbca98cf-1fd9-4713-b4d4-f0742fc76bd3" name="Default Changelist" comment="" />
+    <list default="true" id="bbca98cf-1fd9-4713-b4d4-f0742fc76bd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/io.techleadacademy.OrangeHRM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us.shein/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us.shein/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us.shein/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us.shein/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../us.shein/us.shein.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/main/resources/configurations/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/main/resources/configurations/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/pages/HamePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/tests/EmployeeDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/base/EmployeeDashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../io.techleadacademy.orangeHRM/src/test/java/utils/ConfigReader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VqVOGJaPEU6CDSiuLb6JJ9zNJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

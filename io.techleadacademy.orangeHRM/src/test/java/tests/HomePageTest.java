@@ -1,20 +1,21 @@
 package tests;
 
+import base.EmployeeDashboardPage;
 import base.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.HamePage;
+import pages.HomePage;
 import utils.SeleniumUtils;
 
 public class HomePageTest extends TestBase {
-    HamePage homePage;
-    EmployeeDashboard employeeDashboard;
+    HomePage homePage;
+    EmployeeDashboardPage employeeDashboardPage;
     @BeforeMethod
     public void setUp(){
         initializer();
-        homePage = new HamePage();
-        employeeDashboard = new EmployeeDashboard();
+        homePage = new HomePage();
+        employeeDashboardPage = new EmployeeDashboardPage();
     }
 
     @Test
@@ -25,6 +26,6 @@ public class HomePageTest extends TestBase {
     public void testLogIn_Btn(){
         SeleniumUtils.click(homePage.logIn_Btn);
         String expectedTitle = "Dashboard";
-        Assert.assertEquals(SeleniumUtils.getText(employeeDashboard.dashboardTitle),expectedTitle);
+        Assert.assertEquals(SeleniumUtils.getText(employeeDashboardPage.dashboardTitle),expectedTitle);
     }
 }

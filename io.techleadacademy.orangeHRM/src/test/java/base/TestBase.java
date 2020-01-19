@@ -10,20 +10,24 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
     public static WebDriver driver;
     public static final String propertyPath = "src/main/resources/configurations/configurations.properties";
-    private static long implicitlyWait = Long.parseLong(ConfigReader.readProperty(propertyPath,"imlicitWait"));
-    private static String url = ConfigReader.readProperty(propertyPath,"url");
-    private static String browser = ConfigReader.readProperty(propertyPath,"browser");
+    private static long implicitWait = Long.parseLong(ConfigReader.readProperty(propertyPath,"implicitWait"));
+    private static String url = ConfigReader.readProperty(propertyPath, "url");
+    private static String browser = ConfigReader.readProperty(propertyPath, "browser");
+
 
     public static void initializer(){
-        //String browser = ConfigReader.readProperty(propertyPath, "browser");
         switch (browser){
             case "chrome":
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
         }
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(implicitlyWait, TimeUnit.SECONDS);
-        driver.get(url);
 
+        driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(implicitWait, TimeUnit.SECONDS);
+        driver.get(url);
     }
+
+
+
+
 }

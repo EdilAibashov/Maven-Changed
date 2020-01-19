@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigReader {
+
     public static String readProperty(String filePath, String property){
         Properties prop = null;
 
