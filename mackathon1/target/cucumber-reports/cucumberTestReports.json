@@ -1,0 +1,96 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-29T23:26:00.774Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2138234621,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Verify title of PHP Page",
+        "description": "",
+        "id": "php-page-testing;verify-title-of-php-page",
+        "after": [
+          {
+            "result": {
+              "duration": 117829909,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1435473337,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User opens home page",
+            "match": {
+              "location": "HomePage_STEPS.user_opens_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3575973958,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User opens php page",
+            "match": {
+              "location": "PhpPage_STEPS.user_opens_php_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 67393625,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User verify title of PHP Page",
+            "match": {
+              "location": "PhpPage_STEPS.user_verify_title_of_PHP_Page()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@phpPage"
+          }
+        ]
+      }
+    ],
+    "name": "Php page Testing",
+    "description": "",
+    "id": "php-page-testing",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/phpPage.feature",
+    "tags": [
+      {
+        "name": "@phpPage",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
