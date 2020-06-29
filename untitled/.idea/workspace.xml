@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be53e8b2-94be-43f6-88b1-90eaf5b51239" name="Default Changelist" comment="" />
+    <list default="true" id="be53e8b2-94be-43f6-88b1-90eaf5b51239" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CucumberBDD/target/test-classes/step_definitions/step_impl/HomePage_impl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberBDD/target/test-classes/util/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberBDD/target/test-classes/util/DateUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/main/resources/screenshots/screen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/main/resources/screenshots/screen09 56 48 31/01/2020.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/main/resources/screenshots/screen09 57 55 31/01/2020.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/main/resources/screenshots/screen31/01/2020.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/contstants/SeleniumConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/step_definitions/HomePage_STEPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/step_definitions/step_impl/HomePage_impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/testData/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/testData/NewUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/testData/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/test_runners/HomePage_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/Screenshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/java/util/SeleniumUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackathon02/02/2020/BestBuy/src/test/resources/conf/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/CucumberBDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/CucumberBDD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/constants/SeleniumConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/constants/SeleniumConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/AdminPage_STEPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/AdminPage_STEPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/step_impl/HomePage_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/step_definitions/step_impl/HomePage_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/testData/AdminInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/testData/AdminInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Retry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Retry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Screenshots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/Screenshots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/java/util/SeleniumUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberBDD/src/test/resources/conf/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberBDD/src/test/resources/conf/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProject" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/src/test/java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyProject/src/test/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyProject/target/test-classes/Prctice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MyProject/target/test-classes/Prctice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumProject/src/PHPTRAVELS/PHP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumProject/src/PHPTRAVELS/PHP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mackathon1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mackathon1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mackathon1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mackathon1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mackathon1/src/test/java/step_definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mackathon1/src/test/java/step_definitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mackathon1/src/test/java/step_definitions/step_impl/HomePage_impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mackathon1/src/test/java/step_definitions/step_impl/HomePage_impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mackathon1/target/test-classes/step_definitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mackathon1/target/test-classes/step_definitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../us.shein/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../us.shein/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +66,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1VcQ4XYyqQR1zlCUDIPdCeulKn0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />

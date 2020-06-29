@@ -120,10 +120,10 @@ public class PHP {
                 durationList.put(airLine + " " + i, actualDuration);
             i++;
         }
-//        System.out.println("============================================================");
-//        stopList.forEach((K, V) -> System.out.println("Airline name: " + K + " | Stops : " + V));
-//        priceList.forEach((k,v) -> System.out.println("Airline name: " + k + " | Price: $" + v));
-//        durationList.forEach((k,v) -> System.out.println("Airline name: " + k + " | Duration: " + v));
+        System.out.println("============================================================");
+        stopList.forEach((K, V) -> System.out.println("Airline name: " + K + " | Stops : " + V));
+        priceList.forEach((k,v) -> System.out.println("Airline name: " + k + " | Price: $" + v));
+        durationList.forEach((k,v) -> System.out.println("Airline name: " + k + " | Duration: " + v));
         System.out.println("=============== Requirements ==================");
         for(String airlineName: durationList.keySet()){
             if (durationList.get(airlineName) < 9){

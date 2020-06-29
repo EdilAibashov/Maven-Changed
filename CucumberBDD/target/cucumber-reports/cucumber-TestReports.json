@@ -1,0 +1,78 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-22T04:41:51.787Z",
+        "line": 4,
+        "name": "Verify title of Home Page",
+        "description": "",
+        "id": "home-page-testing;verify-title-of-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "cucumber.api.PendingException: TODO: implement me\n\tat step_definitions.HomePage_STEPS.user_Opens_home_Page(HomePage_STEPS.java:11)\n\tat ✽.User Opens home Page(file:src/test/resources/features/homePage.feature:5)\n",
+              "duration": 3293654,
+              "status": "pending"
+            },
+            "line": 5,
+            "name": "User Opens home Page",
+            "match": {
+              "location": "HomePage_STEPS.user_Opens_home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 424508,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "User sees main My Account button",
+            "match": {
+              "location": "HomePage_STEPS.user_sees_main_My_Account_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 414041,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "Verify title is PHPTRAVELS | Travel Technology Partner",
+            "match": {
+              "location": "HomePage_STEPS.verify_title_is_PHPTRAVELS_Travel_Technology_Partner()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@homePage"
+          },
+          {
+            "name": "@titleTest"
+          }
+        ]
+      }
+    ],
+    "name": "Home page Testing",
+    "description": "",
+    "id": "home-page-testing",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/homePage.feature",
+    "tags": [
+      {
+        "name": "@homePage",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
